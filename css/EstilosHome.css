@@ -1,0 +1,21 @@
+header{
+	margin: 0;
+}
+.contenedor{
+	font-size: 40px;
+	height: 60px;
+	background: orange;
+}
+.prueba{
+	font-size: 30px;
+	display: inline-block;
+	width: 200px;
+	padding-left: 20px;
+	background: blue;
+}
+.Nombre{
+	display: inline-block;
+	width: 200px;
+	padding: 5px;
+	background: yellow;
+}
