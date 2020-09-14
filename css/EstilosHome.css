@@ -16,28 +16,60 @@ header{
 	top: 13px;
 	left: 10px;
 }
-.logo{
-	display: inline-block;
-	width: 200px;
-	padding: 5px;
-	position: absolute;
-	top:5px;
-	left:500px;
-}
+.logo{}
 article{
 	width: 80%;
-	height: 1000px;
 	display: inline-block;
 	background: purple;
+}
+.titulocomponenteamd{
+	color: red;
+	font-size: 30px;
+	height: 33px;
+	background: white;
+}
+.titulocomponenteintel{
+	color: blue;
+	font-size: 30px;
+	height: 33px;
+	background: white;
+}
+.objetosdestacados{/*Página HOME*/
+	color:blue;
+	margin: 10px;
+	font-size: 30px;
+}
+.intel{
+	background: white;
+}
+.amd{
+	background: white;
 }
 aside{
 	display: inline-block;
 	height: 1000px;
-	width: 19%;
+	width: 20%;
 	background: red;
+	float:right;
+}
+.componentmenu:hover{
+	background: magenta;
+}
+.tohome:hover{
+	background: magenta;
 }
 footer{
 	width: 100%;
 	height: 300px;
 	background: yellow; 
+	float: bottom;
+}
+.elemento{
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+	background: red;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px; 
 }
