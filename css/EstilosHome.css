@@ -1,3 +1,6 @@
+body{
+	font-family: tahoma;
+}
 header{
 	margin: 0;
 }
@@ -15,7 +18,7 @@ header{
 }
 .publicidad1{
 	align-self: center;
-	background: red;
+	/*background: red;*/
 	height: 180px;
 	width: 800px;
 	margin-top: 60px;
@@ -31,12 +34,14 @@ header{
 	top: 13px;
 	left: 10px;
 }
-.logo{}
+.publi{
+	height: 100%;
+	width: 100%;
+}
 article{
 	height: 430px;
 	width: 80%;
 	display: inline-block;
-	background: purple;
 }
 .titulocomponenteamd{
 	color: red;
@@ -67,6 +72,17 @@ article{
 	height: 160px;
 	width: 160px;
 	left: 15px;
+}
+.Producto{
+	width: 49%;
+	display: inline-block;
+	background-color: red;
+}
+.InfoProducto{
+	display: inline-block;
+	background-color: yellow;
+	height: 300px;
+	width: 49%;
 }
 .NombreComponente{
 }
