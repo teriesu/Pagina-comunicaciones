@@ -86,8 +86,14 @@ article{
 }
 .NombreComponente{
 }
-.precio{
-
+.Precio{
+	font-family: Times New Roman;
+	font-size: 30px;
+	color: red;
+}
+.listapropiedades{
+	font-family: Times New Roman;
+	color: blue;
 }
 .objetosdestacados{/*Página HOME*/
 	color:blue;
