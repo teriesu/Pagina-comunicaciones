@@ -80,7 +80,7 @@ article{
 }
 .InfoProducto{
 	display: inline-block;
-	background-color: yellow;
+	background-color: gray;
 	height: 300px;
 	width: 49%;
 }
