@@ -46,6 +46,7 @@ article{
 .NombreProducto{
 	color: rgb(0, 25, 97);
 	font-size: 50px;
+	height: 100%;
 }
 .titulocomponenteamd{
 	color: blue;
@@ -119,7 +120,7 @@ article{
 .InfoProducto{
 	display: inline-block;
 	height: 300px;
-	width: 49%;
+	width: 40%;
 }
 .NombreComponente{
 }
